@@ -83,7 +83,7 @@ spring:
   mvn clean install
   mvn spring-boot:run
 ```
-3. **Now Locate to /react-frontend:**
+### **Now Locate to /react-frontend:**
    ```sh
    npm install
    npm run dev
